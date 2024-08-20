@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Hatsuwa.png" alt="hatsuwa" width="200"/>
+    <img src="WhatsApp_icon.png" alt="hatsuwa" width="150"/>
     <h1>Hatsuwa</h1>
     <p>Simple Whatsapp Rest API with Multi Device Support Based on Baileys</p>
 
